@@ -1,0 +1,353 @@
+[
+  {
+    "region": {
+      "code1": "11440",
+      "code2": "12400",
+      "bun": "0369",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 627,
+    "buildingArea": 627
+  },
+  {
+    "region": {
+      "code1": "11440",
+      "code2": "10800",
+      "bun": "0091",
+      "ji": "0020",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 49,
+    "buildingArea": 49
+  },
+  {
+    "region": {
+      "code1": "11440",
+      "code2": "10200",
+      "bun": "0150",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 102,
+    "buildingArea": 52
+  },
+  {
+    "region": {
+      "code1": "11410",
+      "code2": "11000",
+      "bun": "0190",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 89,
+    "buildingArea": 89
+  },
+  {
+    "region": {
+      "code1": "11410",
+      "code2": "11000",
+      "bun": "0190",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 1,
+    "groundFloor": 2,
+    "grossFloorArea": 302,
+    "buildingArea": 174
+  },
+  {
+    "region": {
+      "code1": "11530",
+      "code2": "11200",
+      "bun": "0001",
+      "ji": "0007",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 102,
+    "buildingArea": 102
+  },
+  {
+    "region": {
+      "code1": "11350",
+      "code2": "10200",
+      "bun": "0500",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 39,
+    "buildingArea": 39
+  },
+  {
+    "region": {
+      "code1": "11350",
+      "code2": "10200",
+      "bun": "0500",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 360,
+    "buildingArea": 360
+  },
+  {
+    "region": {
+      "code1": "11320",
+      "code2": "10500",
+      "bun": "0263",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 59,
+    "buildingArea": 29
+  },
+  {
+    "region": {
+      "code1": "11110",
+      "code2": "13000",
+      "bun": "0005",
+      "ji": "0119",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 20,
+    "buildingArea": 20
+  },
+  {
+    "region": {
+      "code1": "11110",
+      "code2": "13000",
+      "bun": "0005",
+      "ji": "0119",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 11,
+    "buildingArea": 11
+  },
+  {
+    "region": {
+      "code1": "11110",
+      "code2": "13000",
+      "bun": "0090",
+      "ji": "0007",
+      "isSan": false
+    },
+    "undergroundFloor": 1,
+    "groundFloor": 3,
+    "grossFloorArea": 1054,
+    "buildingArea": 229
+  },
+  {
+    "region": {
+      "code1": "11650",
+      "code2": "10100",
+      "bun": "1514",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 274,
+    "buildingArea": 274
+  },
+  {
+    "region": {
+      "code1": "11650",
+      "code2": "10100",
+      "bun": "1514",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 23,
+    "buildingArea": 23
+  },
+  {
+    "region": {
+      "code1": "11650",
+      "code2": "10100",
+      "bun": "1514",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 76,
+    "buildingArea": 76
+  },
+  {
+    "region": {
+      "code1": "11650",
+      "code2": "10100",
+      "bun": "1514",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 274,
+    "buildingArea": 274
+  },
+  {
+    "region": {
+      "code1": "11710",
+      "code2": "10600",
+      "bun": "0172",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 832,
+    "buildingArea": 626
+  },
+  {
+    "region": {
+      "code1": "11740",
+      "code2": "10200",
+      "bun": "0313",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 49,
+    "buildingArea": 49
+  },
+  {
+    "region": {
+      "code1": "11710",
+      "code2": "11100",
+      "bun": "0089",
+      "ji": "0022",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 4,
+    "buildingArea": 4
+  },
+  {
+    "region": {
+      "code1": "11590",
+      "code2": "10500",
+      "bun": "0233",
+      "ji": "0002",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 184,
+    "buildingArea": 184
+  },
+  {
+    "region": {
+      "code1": "11590",
+      "code2": "10600",
+      "bun": "0004",
+      "ji": "0002",
+      "isSan": true
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 353,
+    "buildingArea": 196
+  },
+  {
+    "region": {
+      "code1": "11620",
+      "code2": "10100",
+      "bun": "1695",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 75,
+    "buildingArea": 75
+  },
+  {
+    "region": {
+      "code1": "11215",
+      "code2": "10500",
+      "bun": "0694",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 120,
+    "buildingArea": 120
+  },
+  {
+    "region": {
+      "code1": "11215",
+      "code2": "10500",
+      "bun": "0694",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 54,
+    "buildingArea": 54
+  },
+  {
+    "region": {
+      "code1": "11215",
+      "code2": "10500",
+      "bun": "0694",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 60,
+    "buildingArea": 60
+  },
+  {
+    "region": {
+      "code1": "11215",
+      "code2": "10500",
+      "bun": "0694",
+      "ji": "0001",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 1,
+    "grossFloorArea": 21,
+    "buildingArea": 21
+  },
+  {
+    "region": {
+      "code1": "11215",
+      "code2": "10200",
+      "bun": "0025",
+      "ji": "0000",
+      "isSan": false
+    },
+    "undergroundFloor": 0,
+    "groundFloor": 2,
+    "grossFloorArea": 87,
+    "buildingArea": 60
+  }
+]
